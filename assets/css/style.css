@@ -2999,13 +2999,13 @@ p:last-child {
   border-color: rgb(203 210 217 / var(--tw-border-opacity));
 }
 
-.border-\[\#E1E1E1\] {
+.border-\[\#1E1E1E\] {
   --tw-border-opacity: 1;
   border-color: rgb(225 225 225 / var(--tw-border-opacity));
 }
 
-.border-\[\#E1E1E\] {
-  border-color: #E1E1E;
+.border-\[\#1E1E1E\] {
+  border-color: #1E1E1E;
 }
 
 .border-\[\#E6E6E6\] {
@@ -4124,7 +4124,7 @@ p:last-child {
 }
 
 .text-\[\#1212121\] {
-  color: #1212121;
+  color: #121212;
 }
 
 .text-\[\#121212\] {
